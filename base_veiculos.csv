@@ -1,0 +1,119 @@
+﻿nome_veiculo;preco;potencia_cv;consumo_cidade;tipo_suv;tipo_sedan;cambio_automatica;combustivel_flex;ano
+Fiat Strada Endurance;86033;109;12.0;0;0;0;1;2024
+Fiat Strada Freedom;99598;109;12.0;0;0;0;1;2024
+Chevrolet Onix Plus LT;75000;82;13.9;0;1;0;1;2024
+Chevrolet Onix Plus Premier;82000;82;13.9;0;1;1;1;2024
+Volkswagen Polo MSI;68000;82;14.2;0;0;0;1;2024
+Volkswagen Polo Highline;74000;82;14.2;0;0;1;1;2024
+Honda Civic EXL;89000;118;11.8;0;1;1;1;2024
+Honda Civic Touring;95000;118;11.8;0;1;1;1;2025
+Jeep Compass Limited;120000;177;12.8;1;0;1;1;2024
+Jeep Compass Trailhawk;135000;177;12.8;1;0;1;1;2025
+Toyota Corolla Cross XRE;165000;184;11.1;1;0;1;1;2024
+Toyota Corolla Cross XRX;178000;184;11.1;1;0;1;1;2025
+Hyundai Creta Ultimate;145000;139;10.5;1;0;1;1;2024
+Hyundai Creta Platinum;158000;139;10.5;1;0;1;1;2025
+Peugeot 208 Active;72000;84;13.3;0;0;0;1;2024
+Peugeot 208 Griffe;78000;84;13.3;0;0;1;1;2024
+Renault Sandero Stepway Zen;85000;101;12.5;0;0;1;1;2024
+Renault Sandero Stepway Intense;92000;101;12.5;0;0;1;1;2025
+Nissan Kicks Exclusive;110000;128;11.2;1;0;1;1;2024
+Nissan Kicks Advance;118000;128;11.2;1;0;1;1;2025
+Toyota Corolla GLI;95000;116;12.1;0;1;1;1;2024
+Toyota Corolla Altis;102000;116;12.1;0;1;1;1;2025
+Volkswagen T-Cross Comfortline;125000;143;10.8;1;0;1;1;2024
+Volkswagen T-Cross Highline;138000;143;10.8;1;0;1;1;2025
+Chevrolet Tracker LT;88000;105;12.8;0;0;1;1;2024
+Chevrolet Tracker Premier;94000;105;12.8;0;0;1;1;2025
+Ford Territory Titanium;155000;168;9.7;1;0;1;1;2024
+Ford Territory ST-Line;168000;168;9.7;1;0;1;1;2025
+Fiat Argo Drive;69000;77;14.5;0;0;0;1;2023
+Fiat Argo HGT;75000;77;14.5;0;0;0;1;2024
+Chevrolet Prisma LT;82000;90;13.2;0;1;1;1;2023
+Chevrolet Prisma LTZ;89000;90;13.2;0;1;1;1;2024
+Honda City EXL;105000;125;11.5;0;1;1;1;2023
+Honda City Touring;112000;125;11.5;0;1;1;1;2024
+Volkswagen Nivus Comfortline;135000;150;10.2;1;0;1;1;2023
+Volkswagen Nivus Highline;145000;150;10.2;1;0;1;1;2024
+Renault Logan Zen;78000;85;13.8;0;1;0;1;2023
+Renault Logan Intense;84000;85;13.8;0;1;1;1;2024
+Ford Ka Sedan SE;98000;110;12.3;0;1;1;1;2023
+Ford Ka Sedan Titanium;106000;110;12.3;0;1;1;1;2024
+Mitsubishi ASX GLS;115000;132;11.0;1;0;1;1;2023
+Mitsubishi ASX HPE;125000;132;11.0;1;0;1;1;2024
+Chevrolet Spin LT;92000;108;12.6;0;0;1;1;2023
+Chevrolet Spin Premier;99000;108;12.6;0;0;1;1;2024
+Volkswagen Tiguan Allspace;128000;145;10.5;1;0;1;1;2023
+Volkswagen Tiguan R-Line;138000;145;10.5;1;0;1;1;2024
+BMW X6 M50i;250000;400;8.5;1;0;1;0;2024
+BMW X6 M Competition;275000;400;8.5;1;0;1;0;2025
+Fiat Mobi Easy;65000;75;15.2;0;0;0;1;2023
+Fiat Mobi Like;71000;75;15.2;0;0;0;1;2024
+Volkswagen Up! Move;76000;88;14.1;0;0;0;1;2023
+Volkswagen Up! Connect;82000;88;14.1;0;0;1;1;2024
+Renault Kwid Zen;89000;102;13.0;0;0;1;1;2023
+Renault Kwid Intense;96000;102;13.0;0;0;1;1;2024
+Hyundai HB20 Comfort;108000;120;11.8;0;0;1;1;2023
+Hyundai HB20 Evolution;116000;120;11.8;0;0;1;1;2024
+Jeep Renegade Sport;142000;160;10.3;1;0;1;1;2023
+Jeep Renegade Limited;152000;160;10.3;1;0;1;1;2024
+Citroën C3 Live;87000;95;13.5;0;0;0;1;2022
+Citroën C3 Feel;93000;95;13.5;0;0;1;1;2023
+Toyota Yaris XL;102000;115;12.2;0;1;1;1;2022
+Toyota Yaris XLS;109000;115;12.2;0;1;1;1;2023
+Honda HR-V EX;125000;138;11.1;1;0;1;1;2022
+Honda HR-V Touring;134000;138;11.1;1;0;1;1;2023
+Chevrolet Cobalt LT;79000;83;14.0;0;1;0;1;2022
+Chevrolet Cobalt LTZ;85000;83;14.0;0;1;1;1;2023
+Ford EcoSport SE;96000;106;12.7;1;0;1;1;2022
+Ford EcoSport Titanium;103000;106;12.7;1;0;1;1;2023
+Kia Sportage LX;118000;128;11.4;1;0;1;1;2022
+Kia Sportage EX;127000;128;11.4;1;0;1;1;2023
+Hyundai HB20S Comfort;72000;78;15.0;0;1;0;1;2022
+Hyundai HB20S Style;78000;78;15.0;0;1;0;1;2023
+Chery Tiggo 2 Look;84000;92;13.8;1;0;0;1;2022
+Chery Tiggo 2 Act;90000;92;13.8;1;0;1;1;2023
+Nissan Versa S;98000;108;12.5;0;1;1;1;2022
+Nissan Versa SL;105000;108;12.5;0;1;1;1;2023
+Caoa Chery Tiggo 5x TXS;122000;135;11.2;1;0;1;1;2022
+Caoa Chery Tiggo 5x TXSE;131000;135;11.2;1;0;1;1;2023
+Peugeot 2008 Active;88000;98;13.1;1;0;1;1;2021
+Peugeot 2008 Griffe;94000;98;13.1;1;0;1;1;2022
+Kia Cerato S;106000;118;12.0;0;1;1;1;2021
+Kia Cerato SX;113000;118;12.0;0;1;1;1;2022
+Chevrolet Equinox LT;132000;148;10.6;1;0;1;1;2021
+Chevrolet Equinox Premier;141000;148;10.6;1;0;1;1;2022
+Renault Duster Zen;74000;81;14.3;1;0;0;1;2021
+Renault Duster Intense;80000;81;14.3;1;0;0;1;2022
+Fiat Cronos Drive;86000;96;13.4;0;1;1;1;2021
+Fiat Cronos Precision;92000;96;13.4;0;1;1;1;2022
+Volkswagen Virtus Comfortline;104000;112;12.3;0;1;1;1;2021
+Volkswagen Virtus Highline;111000;112;12.3;0;1;1;1;2022
+Hyundai ix35 GL;126000;132;11.0;1;0;1;1;2021
+Hyundai ix35 GLS;135000;132;11.0;1;0;1;1;2022
+Mercedes-AMG GLC 43;195000;220;9.2;1;0;1;0;2024
+Mercedes-AMG GLC 63 S;215000;220;9.2;1;0;1;0;2025
+Audi Q3 Prestige;180000;190;9.8;1;0;1;1;2024
+Audi Q3 Performance;198000;190;9.8;1;0;1;1;2025
+Citroën C4 Cactus Live;67000;74;15.5;0;0;0;1;2020
+Citroën C4 Cactus Feel;73000;74;15.5;0;0;0;1;2021
+Jeep Compass Sport;81000;89;14.2;1;0;0;1;2020
+Jeep Compass Longitude;87000;89;14.2;1;0;1;1;2021
+Toyota RAV4 SX;95000;105;12.9;1;0;1;1;2020
+Toyota RAV4 TOP;102000;105;12.9;1;0;1;1;2021
+Mitsubishi Eclipse Cross HPE;119000;129;11.5;1;0;1;1;2020
+Mitsubishi Eclipse Cross HPE-S;128000;129;11.5;1;0;1;1;2021
+Ford Fusion SE;83000;94;13.6;0;1;1;1;2020
+Ford Fusion Titanium;89000;94;13.6;0;1;1;1;2021
+Chevrolet Cruze LT;101000;114;12.4;0;1;1;1;2020
+Chevrolet Cruze Premier;108000;114;12.4;0;1;1;1;2021
+Subaru XV Premium;124000;136;11.3;1;0;1;1;2020
+Subaru XV Eyesight;133000;136;11.3;1;0;1;1;2021
+Peugeot 308 Active;76000;86;14.1;0;0;0;1;2019
+Peugeot 308 Griffe;82000;86;14.1;0;0;1;1;2020
+Volkswagen Jetta Comfortline;93000;103;13.0;0;1;1;1;2019
+Volkswagen Jetta Highline;99000;103;13.0;0;1;1;1;2020
+Kia Sorento EX;112000;121;12.1;1;0;1;1;2019
+Kia Sorento SX;119000;121;12.1;1;0;1;1;2020
+BMW X1 sDrive20i;138000;142;10.8;1;0;1;1;2019
+BMW X1 xDrive25i;147000;142;10.8;1;0;1;1;2020
