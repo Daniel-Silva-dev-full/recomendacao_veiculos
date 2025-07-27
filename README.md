@@ -10,7 +10,7 @@ Este projeto é um sistema de recomendação que sugere veículos com base nas p
 - pandas
 - scikit-learn
 - numpy
-- matplotlib / seaborn
+- matplotlib
 
 ---
 
